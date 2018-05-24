@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm算法总结
+算法总结
